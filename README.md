@@ -4,6 +4,9 @@ This Excel project involves creating a comprehensive dashboard for bike sales, u
 # Data Set :
 Dataset Used - https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
 
+# Tool Used:
+ Advanced Excel
+
 # Key Steps in the Project :
 1.Data Cleaning: Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
 2.Create Working Sheet: Copy raw data to a working sheet for manipulation, keeping the original data intact.
